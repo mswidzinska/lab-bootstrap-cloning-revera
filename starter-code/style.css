@@ -83,3 +83,6 @@ a:hover {
     color: #f82e42 !important;
     text-decoration: none;
 }
+.active {
+    color:red !important;
+}
